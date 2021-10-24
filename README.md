@@ -1,8 +1,8 @@
 # beat-soober
-a oculus quest modding tool, which will then get pc support.
+An Oculus Quest modding tool, which will then get pc support.
 -
-work in proogress
+Work in progress.
 -
-beat soober is a oculus quest 2 modding ulity, that is currently under devoplment, though this tool wont be devopled on until i can code.
+Beat Soober is an Oculus Quest 2 modding ulity, that is currently under development, though this tool wont be devloped on until I can code.
 # :)
 shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
