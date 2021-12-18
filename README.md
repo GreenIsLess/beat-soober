@@ -1,9 +1,8 @@
-# Beat Soober
-
-The Alternative To BMBF I Think.
-
-## Some Warnings I Guess
-
-So Um, I Didn't Make This. [@BoogieHasFun](https://github.com/BoogieHasFun) Did.
-
-I'm Working On The Basics Of The Program Until Someone Else Can Figure It Out.
+# beat-soober
+An Oculus Quest modding tool, which will then get pc support.
+-
+Work in progress.
+-
+Beat Soober is an Oculus Quest 2 modding ulity, that is currently under development, though this tool wont be devloped on until I can code.
+# :)
+shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
