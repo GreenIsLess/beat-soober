@@ -1,8 +1,13 @@
-# beat-soober
-An Oculus Quest modding tool, which will then get pc support.
--
-Work in progress.
--
-Beat Soober is an Oculus Quest 2 modding ulity, that is currently under development, though this tool wont be devloped on until I can code.
-# :)
-shhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+# Beat Soober
+
+A Beat Saber Modding Tool To Mod Your Game!
+
+## Warnings Or Stuff
+
+Um This Only Works On Quest For Now.
+
+## Contributing
+
+To Contribute, You Need [Android Studio,](https://developer.android.com/studio) And [Visual Studio Code](https://code.visualstudio.com/) Or [Visual Studio 2022.](https://visualstudio.microsoft.com/vs/)
+
+Open The Project In Android Studio And VSC / VS2022, And Contribute I Guess.
